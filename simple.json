@@ -1,0 +1,1619 @@
+[
+  {
+    "q": "If 2x + 5 = 17, find x",
+    "options": ["5", "6", "7", "8"],
+    "answer": "6"
+  },
+  {
+    "q": "Simplify: 3(2x - 4) + 5x",
+    "options": ["11x - 12", "6x - 4", "9x - 12", "10x - 8"],
+    "answer": "11x - 12"
+  },
+  {
+    "q": "If y = 2x² and x = 3, find y",
+    "options": ["12", "16", "18", "20"],
+    "answer": "18"
+  },
+  {
+    "q": "Solve: 5x - 7 = 3x + 9",
+    "options": ["7", "8", "9", "10"],
+    "answer": "8"
+  },
+  {
+    "q": "Find the LCM of 12 and 18",
+    "options": ["24", "30", "36", "48"],
+    "answer": "36"
+  },
+  {
+    "q": "Simplify: (x²)(x³)",
+    "options": ["x⁵", "x⁶", "x⁹", "x⁵²"],
+    "answer": "x⁵"
+  },
+  {
+    "q": "If log₁₀100 = ?",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "q": "Solve: 3x/2 = 9",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "q": "Find the HCF of 24 and 36",
+    "options": ["6", "8", "12", "18"],
+    "answer": "12"
+  },
+  {
+    "q": "If x - 4 = 10, find x",
+    "options": ["12", "13", "14", "15"],
+    "answer": "14"
+  },
+
+  {
+    "q": "Simplify: 2x + 3x - x",
+    "options": ["2x", "3x", "4x", "5x"],
+    "answer": "4x"
+  },
+  {
+    "q": "Find the perimeter of a rectangle 8cm by 5cm",
+    "options": ["26cm", "30cm", "28cm", "24cm"],
+    "answer": "26cm"
+  },
+  {
+    "q": "Solve: 4(2x - 1) = 20",
+    "options": ["x = 2", "x = 3", "x = 4", "x = 5"],
+    "answer": "x = 3"
+  },
+  {
+    "q": "If sin 90° = ?",
+    "options": ["0", "1", "1/2", "2"],
+    "answer": "1"
+  },
+  {
+    "q": "Simplify: 9 ÷ 3 × 2",
+    "options": ["3", "6", "9", "12"],
+    "answer": "6"
+  },
+  {
+    "q": "Find the next term: 3, 6, 12, 24, ?",
+    "options": ["30", "36", "48", "50"],
+    "answer": "48"
+  },
+  {
+    "q": "Solve: x² = 49",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "If 15% of x = 30, find x",
+    "options": ["100", "150", "200", "250"],
+    "answer": "200"
+  },
+  {
+    "q": "Simplify: 5² × 5³",
+    "options": ["5⁵", "5⁶", "5⁸", "5⁹"],
+    "answer": "5⁵"
+  },
+  {
+    "q": "Solve: 2x + 3 = 11",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+
+  {
+    "q": "Find the area of a triangle with base 10 and height 6",
+    "options": ["20", "25", "30", "35"],
+    "answer": "30"
+  },
+  {
+    "q": "Simplify: 3/4 + 1/4",
+    "options": ["1/2", "1", "2", "3/2"],
+    "answer": "1"
+  },
+  {
+    "q": "Solve: 7x = 56",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "q": "If y = x² + 2x, find y when x = 2",
+    "options": ["6", "8", "10", "12"],
+    "answer": "8"
+  },
+  {
+    "q": "Simplify: 6x - 2x + x",
+    "options": ["3x", "4x", "5x", "6x"],
+    "answer": "5x"
+  },
+  {
+    "q": "Find the simple interest on ₦1000 at 10% per annum for 2 years",
+    "options": ["100", "150", "200", "250"],
+    "answer": "200"
+  },
+  {
+    "q": "Solve: 3x + 4 = 2x + 9",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "q": "Simplify: (a²b)(ab²)",
+    "options": ["a³b³", "a²b²", "a⁴b³", "ab"],
+    "answer": "a³b³"
+  },
+  {
+    "q": "If 2x + 1 = 9, find x",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "q": "Find the sum of interior angles of a hexagon",
+    "options": ["540°", "600°", "720°", "800°"],
+    "answer": "720°"
+  },
+
+  {
+    "q": "Solve: 8x - 4 = 3x + 16",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "q": "If x/3 = 6, find x",
+    "options": ["12", "15", "18", "21"],
+    "answer": "18"
+  },
+  {
+    "q": "Simplify: 10 - (3 + 2)",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "q": "Find the square root of 144",
+    "options": ["10", "11", "12", "13"],
+    "answer": "12"
+  },
+  {
+    "q": "Solve: 4x + 6 = 2x + 14",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "q": "Simplify: 2³ × 2²",
+    "options": ["2⁴", "2⁵", "2⁶", "2⁷"],
+    "answer": "2⁵"
+  },
+  {
+    "q": "If a = 2, b = 3, find a² + b²",
+    "options": ["10", "11", "12", "13"],
+    "answer": "13"
+  },
+  {
+    "q": "Solve: 9x = 81",
+    "options": ["7", "8", "9", "10"],
+    "answer": "9"
+  },
+  {
+    "q": "Find the median of 2, 5, 7, 9, 11",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Simplify: 15 ÷ 3 + 4 × 2",
+    "options": ["11", "12", "13", "14"],
+    "answer": "13"
+  },
+
+  {
+    "q": "Solve: x² - 25 = 0",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "q": "If 3x = 2x + 7, find x",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Simplify: (x + 2)(x + 3)",
+    "options": ["x² + 5x + 6", "x² + 6x + 5", "x² + 4x + 6", "x² + 3x + 6"],
+    "answer": "x² + 5x + 6"
+  },
+  {
+    "q": "Solve: 4x + 3 = 19",
+    "options": ["3", "4", "5", "6"],
+    "answer": "4"
+  },
+  {
+    "q": "Find 25% of 200",
+    "options": ["25", "40", "50", "75"],
+    "answer": "50"
+  },
+  {
+    "q": "If x = 4, find 3x²",
+    "options": ["36", "48", "64", "72"],
+    "answer": "48"
+  },
+  {
+    "q": "Simplify: 7a - 2a + 3a",
+    "options": ["8a", "9a", "10a", "12a"],
+    "answer": "8a"
+  },
+  {
+    "q": "Find the area of a rectangle of length 12cm and width 7cm",
+    "options": ["72cm²", "84cm²", "96cm²", "102cm²"],
+    "answer": "84cm²"
+  },
+  {
+    "q": "Solve: 6x = 54",
+    "options": ["7", "8", "9", "10"],
+    "answer": "9"
+  },
+  {
+    "q": "Find the value of 2³ + 3²",
+    "options": ["15", "16", "17", "18"],
+    "answer": "17"
+  },
+  {
+    "q": "If a = 5 and b = 2, find ab + a",
+    "options": ["12", "15", "18", "20"],
+    "answer": "15"
+  },
+  {
+    "q": "Solve: 3(x + 2) = 21",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "q": "Find the mean of 4, 8, 10, 18",
+    "options": ["9", "10", "11", "12"],
+    "answer": "10"
+  },
+  {
+    "q": "A trader bought an item for ₦2,000 and sold it for ₦2,500. Find the profit.",
+    "options": ["₦300", "₦400", "₦500", "₦600"],
+    "answer": "₦500"
+  },
+  {
+    "q": "Simplify: 2(x + 5) - 3",
+    "options": ["2x + 7", "2x + 10", "2x + 13", "x + 7"],
+    "answer": "2x + 7"
+  },
+  {
+    "q": "Find the circumference of a circle with radius 7cm. (Take π = 22/7)",
+    "options": ["22cm", "44cm", "48cm", "49cm"],
+    "answer": "44cm"
+  },
+  {
+    "q": "Solve: x/4 = 5",
+    "options": ["15", "20", "25", "30"],
+    "answer": "20"
+  },
+  {
+    "q": "If 40% of a number is 80, find the number",
+    "options": ["160", "180", "200", "220"],
+    "answer": "200"
+  },
+  {
+    "q": "Simplify: 4² - 3²",
+    "options": ["5", "7", "9", "11"],
+    "answer": "7"
+  },
+  {
+    "q": "Find the HCF of 18 and 30",
+    "options": ["3", "6", "9", "12"],
+    "answer": "6"
+  },
+  {
+    "q": "Solve: 5x + 2 = 27",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "q": "Find the next number: 5, 10, 20, 40, ?",
+    "options": ["60", "70", "80", "90"],
+    "answer": "80"
+  },
+  {
+    "q": "A student scored 72, 68 and 80 in three tests. Find the average score.",
+    "options": ["72", "73", "74", "75"],
+    "answer": "73"
+  },
+  {
+    "q": "Solve: 3x - 7 = 2x + 8",
+    "options": ["13", "14", "15", "16"],
+    "answer": "15"
+  },
+  {
+    "q": "If y = 3x² - 2 and x = 4, find y",
+    "options": ["42", "46", "48", "50"],
+    "answer": "46"
+  },
+  {
+    "q": "Factorize: x² + 7x + 12",
+    "options": ["(x+3)(x+4)", "(x+2)(x+6)", "(x+1)(x+12)", "(x+5)(x+2)"],
+    "answer": "(x+3)(x+4)"
+  },
+  {
+    "q": "Solve: 2(x - 3) + 5 = 15",
+    "options": ["4", "5", "6", "7"],
+    "answer": "5"
+  },
+  {
+    "q": "Find the value of 3² + 4²",
+    "options": ["21", "23", "25", "27"],
+    "answer": "25"
+  },
+  {
+    "q": "A shirt costing ₦4,000 was sold at a 15% profit. Find the selling price.",
+    "options": ["₦4,400", "₦4,500", "₦4,600", "₦4,700"],
+    "answer": "₦4,600"
+  },
+  {
+    "q": "Simplify: (2x³)(3x²)",
+    "options": ["5x⁵", "6x⁵", "6x⁶", "5x⁶"],
+    "answer": "6x⁵"
+  },
+  {
+    "q": "Find the area of a circle of radius 7cm (π = 22/7)",
+    "options": ["144cm²", "154cm²", "164cm²", "174cm²"],
+    "answer": "154cm²"
+  },
+  {
+    "q": "Solve: x² - 9 = 0",
+    "options": ["±2", "±3", "±4", "±5"],
+    "answer": "±3"
+  },
+  {
+    "q": "Find the simple interest on ₦5,000 at 8% per annum for 3 years.",
+    "options": ["₦1,000", "₦1,100", "₦1,200", "₦1,300"],
+    "answer": "₦1,200"
+  },
+  {
+    "q": "The angles of a triangle are 2x, 3x and 4x. Find x.",
+    "options": ["15°", "20°", "25°", "30°"],
+    "answer": "20°"
+  },
+  {
+    "q": "Solve: 4x + 3 = 2x + 15",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "q": "Find the median of 3, 5, 7, 8, 10, 12, 15",
+    "options": ["7", "8", "9", "10"],
+    "answer": "8"
+  },
+  {
+    "q": "If 5 workers complete a job in 12 days, how many days will 10 workers take?",
+    "options": ["4", "5", "6", "7"],
+    "answer": "6"
+  },
+  {
+    "q": "Evaluate: 2³ × 3²",
+    "options": ["72", "64", "54", "81"],
+    "answer": "72"
+  },
+  {
+    "q": "Find the probability of getting an even number on a fair die.",
+    "options": ["1/6", "1/3", "1/2", "2/3"],
+    "answer": "1/2"
+  },
+  {
+    "q": "Factorize: x² - 16",
+    "options": ["(x-4)(x+4)", "(x-8)(x+2)", "(x-2)(x+8)", "(x-4)²"],
+    "answer": "(x-4)(x+4)"
+  },
+  {
+    "q": "A trader bought a phone for ₦30,000 and sold it for ₦27,000. Find the percentage loss.",
+    "options": ["5%", "8%", "10%", "12%"],
+    "answer": "10%"
+  },
+  {
+    "q": "Solve: 3x + 2 = 17",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "q": "The sum of two consecutive integers is 35. Find the larger integer.",
+    "options": ["17", "18", "19", "20"],
+    "answer": "18"
+  },
+  {
+    "q": "Find the value of x if 2x² = 50",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "q": "A car travels 180 km in 3 hours. Find its average speed.",
+    "options": ["50 km/h", "55 km/h", "60 km/h", "65 km/h"],
+    "answer": "60 km/h"
+  },
+  {
+    "q": "If tan θ = 1, find θ",
+    "options": ["30°", "45°", "60°", "90°"],
+    "answer": "45°"
+  },
+  {
+    "q": "Expand: (x + 5)(x + 2)",
+    "options": ["x² + 7x + 10", "x² + 10x + 7", "x² + 5x + 2", "x² + 8x + 10"],
+    "answer": "x² + 7x + 10"
+  },
+  {
+    "q": "The ratio of boys to girls in a class is 3:2. If there are 18 boys, how many girls are there?",
+    "options": ["10", "12", "14", "16"],
+    "answer": "12"
+  },
+  {
+    "q": "Solve: 2x + 3y = 12 and x - y = 1. Find x.",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "q": "Factorize: x² - 5x + 6",
+    "options": ["(x-2)(x-3)", "(x+2)(x+3)", "(x-1)(x-6)", "(x+1)(x-6)"],
+    "answer": "(x-2)(x-3)"
+  },
+  {
+    "q": "Find the value of 2⁵ ÷ 2²",
+    "options": ["4", "8", "16", "32"],
+    "answer": "8"
+  },
+  {
+    "q": "If x² = 81, find x.",
+    "options": ["7", "8", "±9", "10"],
+    "answer": "±9"
+  },
+  {
+    "q": "Find the gradient of the line passing through (2,3) and (6,11).",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "q": "Simplify: (3a²b)(2ab³)",
+    "options": ["5a³b⁴", "6a³b⁴", "6a²b³", "5ab⁴"],
+    "answer": "6a³b⁴"
+  },
+  {
+    "q": "Find the simple interest on ₦8,000 at 5% for 4 years.",
+    "options": ["₦1,200", "₦1,400", "₦1,600", "₦1,800"],
+    "answer": "₦1,600"
+  },
+  {
+    "q": "The angles of a triangle are x, 2x and 3x. Find x.",
+    "options": ["20°", "30°", "40°", "50°"],
+    "answer": "30°"
+  },
+  {
+    "q": "Expand: (2x + 3)(x - 4)",
+    "options": ["2x² - 5x -12", "2x² + 5x -12", "2x² - 8x +12", "2x² -11x -12"],
+    "answer": "2x² - 5x -12"
+  },
+  {
+    "q": "Find the probability of drawing a king from a standard deck of cards.",
+    "options": ["1/13", "1/4", "1/52", "4/13"],
+    "answer": "1/13"
+  },
+  {
+    "q": "Solve: 3x - 8 = 16",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "q": "Find the area of a trapezium with parallel sides 8cm and 12cm, height 5cm.",
+    "options": ["40cm²", "45cm²", "50cm²", "55cm²"],
+    "answer": "50cm²"
+  },
+  {
+    "q": "Simplify: √196",
+    "options": ["12", "13", "14", "15"],
+    "answer": "14"
+  },
+  {
+    "q": "If log₁₀1000 = ?",
+    "options": ["2", "3", "4", "10"],
+    "answer": "3"
+  },
+  {
+    "q": "Solve: x² - 13x + 40 = 0",
+    "options": ["5 and 8", "4 and 10", "2 and 20", "3 and 12"],
+    "answer": "5 and 8"
+  },
+  {
+    "q": "A student scored 65, 70, 80 and 85. Find the mean.",
+    "options": ["72.5", "75", "77.5", "80"],
+    "answer": "75"
+  },
+  {
+    "q": "Find the HCF of 48 and 72.",
+    "options": ["12", "18", "24", "36"],
+    "answer": "24"
+  },
+  {
+    "q": "Evaluate: 4² + 5²",
+    "options": ["31", "41", "51", "61"],
+    "answer": "41"
+  },
+  {
+    "q": "Find the circumference of a circle of radius 14cm (π = 22/7).",
+    "options": ["44cm", "66cm", "88cm", "96cm"],
+    "answer": "88cm"
+  },
+  {
+    "q": "If y = 2x² + 3x and x = 2, find y.",
+    "options": ["10", "12", "14", "16"],
+    "answer": "14"
+  },
+  {
+    "q": "Solve: 5x + 7 = 3x + 21",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Factorize: x² - 9",
+    "options": ["(x-3)(x+3)", "(x-9)(x+1)", "(x-1)(x+9)", "(x-3)²"],
+    "answer": "(x-3)(x+3)"
+  },
+  {
+    "q": "Convert 0.75 to a percentage.",
+    "options": ["7.5%", "75%", "750%", "0.75%"],
+    "answer": "75%"
+  },
+  {
+    "q": "Find the median of 4, 6, 8, 10, 12.",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "q": "If tan θ = √3, find θ.",
+    "options": ["30°", "45°", "60°", "90°"],
+    "answer": "60°"
+  },
+  {
+    "q": "Solve: 4(x - 2) = 20",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Find the value of 3⁴.",
+    "options": ["27", "54", "81", "108"],
+    "answer": "81"
+  },
+  {
+    "q": "A trader gains ₦900 on an item costing ₦6,000. Find the percentage gain.",
+    "options": ["10%", "12%", "15%", "18%"],
+    "answer": "15%"
+  },
+  {
+    "q": "Expand: (x - 2)²",
+    "options": ["x² - 4x + 4", "x² + 4x + 4", "x² - 2x + 4", "x² + 2x + 4"],
+    "answer": "x² - 4x + 4"
+  },
+  {
+    "q": "Find the LCM of 15 and 20.",
+    "options": ["30", "40", "60", "80"],
+    "answer": "60"
+  },
+  {
+    "q": "Solve: x/5 + 2 = 6",
+    "options": ["10", "15", "20", "25"],
+    "answer": "20"
+  },
+  {
+    "q": "Find the area of a circle with radius 10cm (π = 3.14).",
+    "options": ["314cm²", "300cm²", "280cm²", "320cm²"],
+    "answer": "314cm²"
+  },
+  {
+    "q": "Evaluate: 7² - 5²",
+    "options": ["12", "24", "36", "48"],
+    "answer": "24"
+  },
+  {
+    "q": "If cos θ = 1, find θ.",
+    "options": ["0°", "30°", "60°", "90°"],
+    "answer": "0°"
+  },
+  {
+    "q": "Solve: 2x² = 98",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Find the sum of the interior angles of an octagon.",
+    "options": ["900°", "960°", "1080°", "1200°"],
+    "answer": "1080°"
+  },
+  {
+    "q": "A car travels 240km in 4 hours. Find its average speed.",
+    "options": ["50km/h", "55km/h", "60km/h", "65km/h"],
+    "answer": "60km/h"
+  },
+  {
+    "q": "Simplify: (2x⁴)(3x²)",
+    "options": ["5x⁶", "6x⁶", "6x⁸", "5x⁸"],
+    "answer": "6x⁶"
+  },
+  {
+    "q": "Find the mode of 2, 4, 4, 5, 7, 7, 7, 8.",
+    "options": ["4", "5", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "If 3x - 5 = 16, find x.",
+    "options": ["6", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "q": "Factorize: x² + 9x + 20",
+    "options": ["(x+4)(x+5)", "(x+2)(x+10)", "(x+1)(x+20)", "(x+3)(x+7)"],
+    "answer": "(x+4)(x+5)"
+  },
+  {
+    "q": "Find the probability of getting a head when a coin is tossed.",
+    "options": ["1/4", "1/3", "1/2", "1"],
+    "answer": "1/2"
+  },
+  {
+    "q": "Evaluate: 6³ ÷ 6²",
+    "options": ["1", "6", "12", "36"],
+    "answer": "6"
+  },
+  {
+    "q": "The ratio of boys to girls is 5:3. If there are 40 boys, how many girls are there?",
+    "options": ["20", "24", "28", "32"],
+    "answer": "24"
+  },
+  {
+    "q": "Solve: 7x - 9 = 26",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "q": "Find the volume of a cube of side 4cm.",
+    "options": ["16cm³", "32cm³", "64cm³", "128cm³"],
+    "answer": "64cm³"
+  },
+  {
+    "q": "If sin θ = 1/2, find θ.",
+    "options": ["30°", "45°", "60°", "90°"],
+    "answer": "30°"
+  },
+  {
+    "q": "Find the value of (3x + 2) when x = 5.",
+    "options": ["15", "16", "17", "18"],
+    "answer": "17"
+  },
+  {
+    "q": "Solve: x² - 4x - 12 = 0",
+    "options": ["6 and -2", "4 and -3", "3 and -4", "2 and -6"],
+    "answer": "6 and -2"
+  },
+  {
+    "q": "Find the mean of 10, 15, 20, 25 and 30.",
+    "options": ["18", "20", "22", "25"],
+    "answer": "20"
+  },
+  {
+    "q": "Solve: 2x + 3y = 12 and x - y = 1. Find x.",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "q": "Factorize: x² - 5x + 6",
+    "options": ["(x-2)(x-3)", "(x+2)(x+3)", "(x-1)(x-6)", "(x+1)(x-6)"],
+    "answer": "(x-2)(x-3)"
+  },
+  {
+    "q": "Find the value of 2⁵ ÷ 2²",
+    "options": ["4", "8", "16", "32"],
+    "answer": "8"
+  },
+  {
+    "q": "If x² = 81, find x.",
+    "options": ["7", "8", "±9", "10"],
+    "answer": "±9"
+  },
+  {
+    "q": "Find the gradient of the line passing through (2,3) and (6,11).",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "q": "Simplify: (3a²b)(2ab³)",
+    "options": ["5a³b⁴", "6a³b⁴", "6a²b³", "5ab⁴"],
+    "answer": "6a³b⁴"
+  },
+  {
+    "q": "Find the simple interest on ₦8,000 at 5% for 4 years.",
+    "options": ["₦1,200", "₦1,400", "₦1,600", "₦1,800"],
+    "answer": "₦1,600"
+  },
+  {
+    "q": "The angles of a triangle are x, 2x and 3x. Find x.",
+    "options": ["20°", "30°", "40°", "50°"],
+    "answer": "30°"
+  },
+  {
+    "q": "Expand: (2x + 3)(x - 4)",
+    "options": ["2x² - 5x -12", "2x² + 5x -12", "2x² - 8x +12", "2x² -11x -12"],
+    "answer": "2x² - 5x -12"
+  },
+  {
+    "q": "Find the probability of drawing a king from a standard deck of cards.",
+    "options": ["1/13", "1/4", "1/52", "4/13"],
+    "answer": "1/13"
+  },
+  {
+    "q": "Solve: 3x - 8 = 16",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "q": "Find the area of a trapezium with parallel sides 8cm and 12cm, height 5cm.",
+    "options": ["40cm²", "45cm²", "50cm²", "55cm²"],
+    "answer": "50cm²"
+  },
+  {
+    "q": "Simplify: √196",
+    "options": ["12", "13", "14", "15"],
+    "answer": "14"
+  },
+  {
+    "q": "If log₁₀1000 = ?",
+    "options": ["2", "3", "4", "10"],
+    "answer": "3"
+  },
+  {
+    "q": "Solve: x² - 13x + 40 = 0",
+    "options": ["5 and 8", "4 and 10", "2 and 20", "3 and 12"],
+    "answer": "5 and 8"
+  },
+  {
+    "q": "A student scored 65, 70, 80 and 85. Find the mean.",
+    "options": ["72.5", "75", "77.5", "80"],
+    "answer": "75"
+  },
+  {
+    "q": "Find the HCF of 48 and 72.",
+    "options": ["12", "18", "24", "36"],
+    "answer": "24"
+  },
+  {
+    "q": "Evaluate: 4² + 5²",
+    "options": ["31", "41", "51", "61"],
+    "answer": "41"
+  },
+  {
+    "q": "Find the circumference of a circle of radius 14cm (π = 22/7).",
+    "options": ["44cm", "66cm", "88cm", "96cm"],
+    "answer": "88cm"
+  },
+  {
+    "q": "If y = 2x² + 3x and x = 2, find y.",
+    "options": ["10", "12", "14", "16"],
+    "answer": "14"
+  },
+  {
+    "q": "Solve: 5x + 7 = 3x + 21",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Factorize: x² - 9",
+    "options": ["(x-3)(x+3)", "(x-9)(x+1)", "(x-1)(x+9)", "(x-3)²"],
+    "answer": "(x-3)(x+3)"
+  },
+  {
+    "q": "Convert 0.75 to a percentage.",
+    "options": ["7.5%", "75%", "750%", "0.75%"],
+    "answer": "75%"
+  },
+  {
+    "q": "Find the median of 4, 6, 8, 10, 12.",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "q": "If tan θ = √3, find θ.",
+    "options": ["30°", "45°", "60°", "90°"],
+    "answer": "60°"
+  },
+  {
+    "q": "Solve: 4(x - 2) = 20",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Find the value of 3⁴.",
+    "options": ["27", "54", "81", "108"],
+    "answer": "81"
+  },
+  {
+    "q": "A trader gains ₦900 on an item costing ₦6,000. Find the percentage gain.",
+    "options": ["10%", "12%", "15%", "18%"],
+    "answer": "15%"
+  },
+  {
+    "q": "Expand: (x - 2)²",
+    "options": ["x² - 4x + 4", "x² + 4x + 4", "x² - 2x + 4", "x² + 2x + 4"],
+    "answer": "x² - 4x + 4"
+  },
+  {
+    "q": "Find the LCM of 15 and 20.",
+    "options": ["30", "40", "60", "80"],
+    "answer": "60"
+  },
+  {
+    "q": "Solve: x/5 + 2 = 6",
+    "options": ["10", "15", "20", "25"],
+    "answer": "20"
+  },
+  {
+    "q": "Find the area of a circle with radius 10cm (π = 3.14).",
+    "options": ["314cm²", "300cm²", "280cm²", "320cm²"],
+    "answer": "314cm²"
+  },
+  {
+    "q": "Evaluate: 7² - 5²",
+    "options": ["12", "24", "36", "48"],
+    "answer": "24"
+  },
+  {
+    "q": "If cos θ = 1, find θ.",
+    "options": ["0°", "30°", "60°", "90°"],
+    "answer": "0°"
+  },
+  {
+    "q": "Solve: 2x² = 98",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Find the sum of the interior angles of an octagon.",
+    "options": ["900°", "960°", "1080°", "1200°"],
+    "answer": "1080°"
+  },
+  {
+    "q": "A car travels 240km in 4 hours. Find its average speed.",
+    "options": ["50km/h", "55km/h", "60km/h", "65km/h"],
+    "answer": "60km/h"
+  },
+  {
+    "q": "Simplify: (2x⁴)(3x²)",
+    "options": ["5x⁶", "6x⁶", "6x⁸", "5x⁸"],
+    "answer": "6x⁶"
+  },
+  {
+    "q": "Find the mode of 2, 4, 4, 5, 7, 7, 7, 8.",
+    "options": ["4", "5", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "If 3x - 5 = 16, find x.",
+    "options": ["6", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "q": "Factorize: x² + 9x + 20",
+    "options": ["(x+4)(x+5)", "(x+2)(x+10)", "(x+1)(x+20)", "(x+3)(x+7)"],
+    "answer": "(x+4)(x+5)"
+  },
+  {
+    "q": "Find the probability of getting a head when a coin is tossed.",
+    "options": ["1/4", "1/3", "1/2", "1"],
+    "answer": "1/2"
+  },
+  {
+    "q": "Evaluate: 6³ ÷ 6²",
+    "options": ["1", "6", "12", "36"],
+    "answer": "6"
+  },
+  {
+    "q": "The ratio of boys to girls is 5:3. If there are 40 boys, how many girls are there?",
+    "options": ["20", "24", "28", "32"],
+    "answer": "24"
+  },
+  {
+    "q": "Solve: 7x - 9 = 26",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "q": "Find the volume of a cube of side 4cm.",
+    "options": ["16cm³", "32cm³", "64cm³", "128cm³"],
+    "answer": "64cm³"
+  },
+  {
+    "q": "If sin θ = 1/2, find θ.",
+    "options": ["30°", "45°", "60°", "90°"],
+    "answer": "30°"
+  },
+  {
+    "q": "Find the value of (3x + 2) when x = 5.",
+    "options": ["15", "16", "17", "18"],
+    "answer": "17"
+  },
+  {
+    "q": "Solve: x² - 4x - 12 = 0",
+    "options": ["6 and -2", "4 and -3", "3 and -4", "2 and -6"],
+    "answer": "6 and -2"
+  },
+  {
+    "q": "Find the mean of 10, 15, 20, 25 and 30.",
+    "options": ["18", "20", "22", "25"],
+    "answer": "20"
+  },
+  {
+    "q": "Solve: 2x + 3y = 12 and x - y = 1. Find x.",
+    "options": ["2", "3", "4", "5"],
+    "answer": "3"
+  },
+  {
+    "q": "Factorize: x² - 5x + 6",
+    "options": ["(x-2)(x-3)", "(x+2)(x+3)", "(x-1)(x-6)", "(x+1)(x-6)"],
+    "answer": "(x-2)(x-3)"
+  },
+  {
+    "q": "Find the value of 2⁵ ÷ 2²",
+    "options": ["4", "8", "16", "32"],
+    "answer": "8"
+  },
+  {
+    "q": "If x² = 81, find x.",
+    "options": ["7", "8", "±9", "10"],
+    "answer": "±9"
+  },
+  {
+    "q": "Find the gradient of the line passing through (2,3) and (6,11).",
+    "options": ["1", "2", "3", "4"],
+    "answer": "2"
+  },
+  {
+    "q": "Simplify: (3a²b)(2ab³)",
+    "options": ["5a³b⁴", "6a³b⁴", "6a²b³", "5ab⁴"],
+    "answer": "6a³b⁴"
+  },
+  {
+    "q": "Find the simple interest on ₦8,000 at 5% for 4 years.",
+    "options": ["₦1,200", "₦1,400", "₦1,600", "₦1,800"],
+    "answer": "₦1,600"
+  },
+  {
+    "q": "The angles of a triangle are x, 2x and 3x. Find x.",
+    "options": ["20°", "30°", "40°", "50°"],
+    "answer": "30°"
+  },
+  {
+    "q": "Expand: (2x + 3)(x - 4)",
+    "options": ["2x² - 5x -12", "2x² + 5x -12", "2x² - 8x +12", "2x² -11x -12"],
+    "answer": "2x² - 5x -12"
+  },
+  {
+    "q": "Find the probability of drawing a king from a standard deck of cards.",
+    "options": ["1/13", "1/4", "1/52", "4/13"],
+    "answer": "1/13"
+  },
+  {
+    "q": "Solve: 3x - 8 = 16",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "q": "Find the area of a trapezium with parallel sides 8cm and 12cm, height 5cm.",
+    "options": ["40cm²", "45cm²", "50cm²", "55cm²"],
+    "answer": "50cm²"
+  },
+  {
+    "q": "Simplify: √196",
+    "options": ["12", "13", "14", "15"],
+    "answer": "14"
+  },
+  {
+    "q": "If log₁₀1000 = ?",
+    "options": ["2", "3", "4", "10"],
+    "answer": "3"
+  },
+  {
+    "q": "Solve: x² - 13x + 40 = 0",
+    "options": ["5 and 8", "4 and 10", "2 and 20", "3 and 12"],
+    "answer": "5 and 8"
+  },
+  {
+    "q": "A student scored 65, 70, 80 and 85. Find the mean.",
+    "options": ["72.5", "75", "77.5", "80"],
+    "answer": "75"
+  },
+  {
+    "q": "Find the HCF of 48 and 72.",
+    "options": ["12", "18", "24", "36"],
+    "answer": "24"
+  },
+  {
+    "q": "Evaluate: 4² + 5²",
+    "options": ["31", "41", "51", "61"],
+    "answer": "41"
+  },
+  {
+    "q": "Find the circumference of a circle of radius 14cm (π = 22/7).",
+    "options": ["44cm", "66cm", "88cm", "96cm"],
+    "answer": "88cm"
+  },
+  {
+    "q": "If y = 2x² + 3x and x = 2, find y.",
+    "options": ["10", "12", "14", "16"],
+    "answer": "14"
+  },
+  {
+    "q": "Solve: 5x + 7 = 3x + 21",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Factorize: x² - 9",
+    "options": ["(x-3)(x+3)", "(x-9)(x+1)", "(x-1)(x+9)", "(x-3)²"],
+    "answer": "(x-3)(x+3)"
+  },
+  {
+    "q": "Convert 0.75 to a percentage.",
+    "options": ["7.5%", "75%", "750%", "0.75%"],
+    "answer": "75%"
+  },
+  {
+    "q": "Find the median of 4, 6, 8, 10, 12.",
+    "options": ["6", "7", "8", "9"],
+    "answer": "8"
+  },
+  {
+    "q": "If tan θ = √3, find θ.",
+    "options": ["30°", "45°", "60°", "90°"],
+    "answer": "60°"
+  },
+  {
+    "q": "Solve: 4(x - 2) = 20",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Find the value of 3⁴.",
+    "options": ["27", "54", "81", "108"],
+    "answer": "81"
+  },
+  {
+    "q": "A trader gains ₦900 on an item costing ₦6,000. Find the percentage gain.",
+    "options": ["10%", "12%", "15%", "18%"],
+    "answer": "15%"
+  },
+  {
+    "q": "Expand: (x - 2)²",
+    "options": ["x² - 4x + 4", "x² + 4x + 4", "x² - 2x + 4", "x² + 2x + 4"],
+    "answer": "x² - 4x + 4"
+  },
+  {
+    "q": "Find the LCM of 15 and 20.",
+    "options": ["30", "40", "60", "80"],
+    "answer": "60"
+  },
+  {
+    "q": "Solve: x/5 + 2 = 6",
+    "options": ["10", "15", "20", "25"],
+    "answer": "20"
+  },
+  {
+    "q": "Find the area of a circle with radius 10cm (π = 3.14).",
+    "options": ["314cm²", "300cm²", "280cm²", "320cm²"],
+    "answer": "314cm²"
+  },
+  {
+    "q": "Evaluate: 7² - 5²",
+    "options": ["12", "24", "36", "48"],
+    "answer": "24"
+  },
+  {
+    "q": "If cos θ = 1, find θ.",
+    "options": ["0°", "30°", "60°", "90°"],
+    "answer": "0°"
+  },
+  {
+    "q": "Solve: 2x² = 98",
+    "options": ["5", "6", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "Find the sum of the interior angles of an octagon.",
+    "options": ["900°", "960°", "1080°", "1200°"],
+    "answer": "1080°"
+  },
+  {
+    "q": "A car travels 240km in 4 hours. Find its average speed.",
+    "options": ["50km/h", "55km/h", "60km/h", "65km/h"],
+    "answer": "60km/h"
+  },
+  {
+    "q": "Simplify: (2x⁴)(3x²)",
+    "options": ["5x⁶", "6x⁶", "6x⁸", "5x⁸"],
+    "answer": "6x⁶"
+  },
+  {
+    "q": "Find the mode of 2, 4, 4, 5, 7, 7, 7, 8.",
+    "options": ["4", "5", "7", "8"],
+    "answer": "7"
+  },
+  {
+    "q": "If 3x - 5 = 16, find x.",
+    "options": ["6", "7", "8", "9"],
+    "answer": "7"
+  },
+  {
+    "q": "Factorize: x² + 9x + 20",
+    "options": ["(x+4)(x+5)", "(x+2)(x+10)", "(x+1)(x+20)", "(x+3)(x+7)"],
+    "answer": "(x+4)(x+5)"
+  },
+  {
+    "q": "Find the probability of getting a head when a coin is tossed.",
+    "options": ["1/4", "1/3", "1/2", "1"],
+    "answer": "1/2"
+  },
+  {
+    "q": "Evaluate: 6³ ÷ 6²",
+    "options": ["1", "6", "12", "36"],
+    "answer": "6"
+  },
+  {
+    "q": "The ratio of boys to girls is 5:3. If there are 40 boys, how many girls are there?",
+    "options": ["20", "24", "28", "32"],
+    "answer": "24"
+  },
+  {
+    "q": "Solve: 7x - 9 = 26",
+    "options": ["3", "4", "5", "6"],
+    "answer": "5"
+  },
+  {
+    "q": "Find the volume of a cube of side 4cm.",
+    "options": ["16cm³", "32cm³", "64cm³", "128cm³"],
+    "answer": "64cm³"
+  },
+  {
+    "q": "If sin θ = 1/2, find θ.",
+    "options": ["30°", "45°", "60°", "90°"],
+    "answer": "30°"
+  },
+  {
+    "q": "Find the value of (3x + 2) when x = 5.",
+    "options": ["15", "16", "17", "18"],
+    "answer": "17"
+  },
+  {
+    "q": "Solve: x² - 4x - 12 = 0",
+    "options": ["6 and -2", "4 and -3", "3 and -4", "2 and -6"],
+    "answer": "6 and -2"
+  },
+  {
+    "q": "Find the mean of 10, 15, 20, 25 and 30.",
+    "options": ["18", "20", "22", "25"],
+    "answer": "20"
+  },
+  {
+  "q": "Solve: 3x + 5 = 26",
+  "options": ["5", "6", "7", "8"],
+  "answer": "7"
+},
+{
+  "q": "Factorize: x² - 9x + 20",
+  "options": ["(x-4)(x-5)", "(x+4)(x+5)", "(x-2)(x-10)", "(x+2)(x+10)"],
+  "answer": "(x-4)(x-5)"
+},
+
+{
+  "q": "Find the value of 4² + 3²",
+  "options": ["21", "23", "25", "27"],
+  "answer": "25"
+},
+
+{
+  "q": "Solve: 5x - 8 = 22",
+  "options": ["4", "5", "6", "7"],
+  "answer": "6"
+},
+
+{
+  "q": "Expand: (x + 4)(x + 6)",
+  "options": ["x² + 10x + 24", "x² + 24x + 10", "x² + 6x + 4", "x² + 8x + 24"],
+  "answer": "x² + 10x + 24"
+},
+
+{
+  "q": "Find the gradient of the line through (2,4) and (6,12)",
+  "options": ["1", "2", "3", "4"],
+  "answer": "2"
+},
+
+{
+  "q": "If x = 3, find 2x² + 7",
+  "options": ["21", "23", "25", "27"],
+  "answer": "25"
+},
+
+{
+  "q": "Find the LCM of 18 and 30",
+  "options": ["60", "72", "90", "120"],
+  "answer": "90"
+},
+
+{
+  "q": "Solve: x² = 144",
+  "options": ["10", "11", "12", "13"],
+  "answer": "12"
+},
+
+{
+  "q": "A trader bought a phone for ₦20,000 and sold it for ₦24,000. Find the percentage gain.",
+  "options": ["15%", "20%", "25%", "30%"],
+  "answer": "20%"
+},
+
+{
+  "q": "Find the area of a circle of radius 7cm. (Take π = 22/7)",
+  "options": ["144cm²", "154cm²", "164cm²", "174cm²"],
+  "answer": "154cm²"
+},
+
+{
+  "q": "Factorize: x² - 16",
+  "options": ["(x-4)(x+4)", "(x-8)(x+2)", "(x-2)(x+8)", "(x-4)²"],
+  "answer": "(x-4)(x+4)"
+},
+
+{
+  "q": "Evaluate: 2³ × 3²",
+  "options": ["54", "72", "81", "108"],
+  "answer": "72"
+},
+{
+  "q": "Find the probability of getting a king from a pack of cards.",
+  "options": ["1/13", "1/26", "1/52", "4/13"],
+  "answer": "1/13"
+},
+
+{
+  "q": "Solve simultaneously: x + y = 9 and x - y = 3. Find x.",
+  "options": ["4", "5", "6", "7"],
+  "answer": "6"
+},
+{
+  "q": "Expand: (2x - 3)(x + 5)",
+  "options": ["2x² + 7x -15", "2x² - 7x -15", "2x² + 10x -15", "2x² + 5x -15"],
+  "answer": "2x² + 7x -15"
+},
+{
+  "q": "Find the sum of the interior angles of a nonagon.",
+  "options": ["1080°", "1260°", "1440°", "1620°"],
+  "answer": "1260°"
+},
+{
+  "q": "If tan θ = √3, find θ.",
+  "options": ["30°", "45°", "60°", "90°"],
+  "answer": "60°"
+},
+{
+  "q": "Solve: 4x² = 100",
+  "options": ["3", "4", "5", "6"],
+  "answer": "5"
+},
+{
+  "q": "Find the mean of 12, 15, 18, 21 and 24.",
+  "options": ["16", "17", "18", "19"],
+  "answer": "18"
+},
+{
+  "q": "Solve: 2x + 7 = 25",
+  "options": ["7", "8", "9", "10"],
+  "answer": "9"
+},
+
+{
+  "q": "Factorize: x² + 11x + 24",
+  "options": ["(x+3)(x+8)", "(x+4)(x+6)", "(x+2)(x+12)", "(x+1)(x+24)"],
+  "answer": "(x+3)(x+8)"
+},
+
+{
+  "q": "Find the value of 5² + 12²",
+  "options": ["149", "159", "169", "179"],
+  "answer": "169"
+},
+
+{
+  "q": "Solve: 4x - 3 = 29",
+  "options": ["6", "7", "8", "9"],
+  "answer": "8"
+},
+
+{
+  "q": "Expand: (x + 7)(x + 2)",
+  "options": ["x² + 9x + 14", "x² + 14x + 9", "x² + 7x + 2", "x² + 8x + 14"],
+  "answer": "x² + 9x + 14"
+},
+
+{
+  "q": "Find 15% of ₦4,000",
+  "options": ["₦500", "₦600", "₦700", "₦800"],
+  "answer": "₦600"
+},
+
+{
+  "q": "If y = 2x² + 1, find y when x = 4",
+  "options": ["31", "32", "33", "34"],
+  "answer": "33"
+},
+
+{
+  "q": "Solve: x² - 25 = 0",
+  "options": ["±3", "±4", "±5", "±6"],
+  "answer": "±5"
+},
+
+{
+  "q": "Find the area of a triangle with base 15cm and height 8cm",
+  "options": ["50cm²", "60cm²", "70cm²", "80cm²"],
+  "answer": "60cm²"
+},
+
+{
+  "q": "Evaluate: 3³ × 3²",
+  "options": ["243", "81", "729", "27"],
+  "answer": "243"
+},
+
+{
+  "q": "Solve: 7x + 4 = 46",
+  "options": ["5", "6", "7", "8"],
+  "answer": "6"
+},
+
+{
+  "q": "Find the median of 4, 6, 8, 10, 12, 14, 16",
+  "options": ["8", "9", "10", "11"],
+  "answer": "10"
+},
+
+{
+  "q": "Factorize: x² - 10x + 21",
+  "options": ["(x-3)(x-7)", "(x-1)(x-21)", "(x-4)(x-5)", "(x-2)(x-9)"],
+  "answer": "(x-3)(x-7)"
+},
+
+{
+  "q": "Find the circumference of a circle of radius 14cm (π = 22/7)",
+  "options": ["66cm", "77cm", "88cm", "99cm"],
+  "answer": "88cm"
+},
+
+{
+  "q": "A trader bought a bag for ₦12,000 and sold it for ₦15,000. Find the profit.",
+  "options": ["₦2,000", "₦2,500", "₦3,000", "₦3,500"],
+  "answer": "₦3,000"
+},
+
+{
+  "q": "Solve simultaneously: x + y = 15 and x - y = 5. Find y.",
+  "options": ["4", "5", "6", "7"],
+  "answer": "5"
+},
+
+{
+  "q": "Evaluate: √324",
+  "options": ["16", "17", "18", "19"],
+  "answer": "18"
+},
+
+{
+  "q": "Find the probability of getting an odd number on a die.",
+  "options": ["1/6", "1/3", "1/2", "2/3"],
+  "answer": "1/2"
+},
+
+{
+  "q": "Expand: (2x + 5)(x + 1)",
+  "options": ["2x² + 7x + 5", "2x² + 5x + 1", "2x² + 6x + 5", "2x² + 7x + 1"],
+  "answer": "2x² + 7x + 5"
+},
+
+{
+  "q": "Find the value of log₁₀10000",
+  "options": ["2", "3", "4", "5"],
+  "answer": "4"
+},
+
+{
+  "q": "Solve: 9x - 8 = 55",
+  "options": ["6", "7", "8", "9"],
+  "answer": "7"
+},
+
+{
+  "q": "Find the HCF of 54 and 72",
+  "options": ["12", "18", "24", "36"],
+  "answer": "18"
+},
+
+{
+  "q": "If cos θ = 1/2, find θ",
+  "options": ["30°", "45°", "60°", "90°"],
+  "answer": "60°"
+},
+
+{
+  "q": "Find the volume of a cube of side 5cm",
+  "options": ["100cm³", "125cm³", "150cm³", "175cm³"],
+  "answer": "125cm³"
+},
+
+{
+  "q": "Factorize: x² + 13x + 40",
+  "options": ["(x+5)(x+8)", "(x+4)(x+10)", "(x+2)(x+20)", "(x+1)(x+40)"],
+  "answer": "(x+5)(x+8)"
+},
+
+{
+  "q": "Evaluate: 7² - 4²",
+  "options": ["25", "33", "49", "65"],
+  "answer": "33"
+},
+
+{
+  "q": "A student scored 70, 75, 80, 85 and 90. Find the mean score.",
+  "options": ["78", "79", "80", "81"],
+  "answer": "80"
+},
+
+{
+  "q": "Solve: 5(x - 2) = 30",
+  "options": ["6", "7", "8", "9"],
+  "answer": "8"
+},
+
+{
+  "q": "Find the sum of interior angles of a heptagon.",
+  "options": ["720°", "900°", "1080°", "1260°"],
+  "answer": "900°"
+},
+
+{
+  "q": "If tan θ = 1, find θ",
+  "options": ["30°", "45°", "60°", "90°"],
+  "answer": "45°"
+},
+
+{
+  "q": "Solve: x² - 49 = 0",
+  "options": ["±5", "±6", "±7", "±8"],
+  "answer": "±7"
+},
+
+{
+  "q": "Expand: (x - 4)²",
+  "options": ["x² - 8x + 16", "x² + 8x +16", "x² - 4x +16", "x² +4x +16"],
+  "answer": "x² - 8x + 16"
+},
+
+{
+  "q": "Find 20% of ₦7,500",
+  "options": ["₦1,000", "₦1,250", "₦1,500", "₦1,750"],
+  "answer": "₦1,500"
+},
+
+{
+  "q": "Evaluate: (2³)(5²)",
+  "options": ["100", "150", "200", "250"],
+  "answer": "200"
+},
+
+{
+  "q": "Find the area of a circle of radius 10cm (π = 3.14)",
+  "options": ["314cm²", "300cm²", "280cm²", "320cm²"],
+  "answer": "314cm²"
+},
+
+{
+  "q": "Solve simultaneously: x + y = 12 and x - y = 2. Find x.",
+  "options": ["5", "6", "7", "8"],
+  "answer": "7"
+},
+
+{
+  "q": "Find the mode of 3, 4, 4, 5, 6, 6, 6, 7",
+  "options": ["4", "5", "6", "7"],
+  "answer": "6"
+},
+
+{
+  "q": "Factorize: x² - 12x + 35",
+  "options": ["(x-5)(x-7)", "(x-3)(x-9)", "(x-1)(x-35)", "(x-2)(x-17)"],
+  "answer": "(x-5)(x-7)"
+},
+
+{
+  "q": "Find the simple interest on ₦10,000 at 8% for 2 years.",
+  "options": ["₦1,400", "₦1,500", "₦1,600", "₦1,700"],
+  "answer": "₦1,600"
+},
+
+{
+  "q": "Solve: 8x + 5 = 69",
+  "options": ["7", "8", "9", "10"],
+  "answer": "8"
+},
+
+{
+  "q": "Evaluate: √625",
+  "options": ["20", "25", "30", "35"],
+  "answer": "25"
+},
+
+{
+  "q": "Find the probability of selecting a vowel from the word EDUCATION.",
+  "options": ["4/9", "5/9", "6/9", "7/9"],
+  "answer": "5/9"
+},
+
+{
+  "q": "If y = x² - 3x, find y when x = 5",
+  "options": ["8", "9", "10", "11"],
+  "answer": "10"
+},
+
+{
+  "q": "Find the LCM of 24 and 36",
+  "options": ["48", "60", "72", "96"],
+  "answer": "72"
+},
+
+{
+  "q": "Expand: (3x - 2)(x + 4)",
+  "options": ["3x² + 10x - 8", "3x² + 12x - 8", "3x² + 8x - 8", "3x² + 10x + 8"],
+  "answer": "3x² + 10x - 8"
+},
+
+{
+  "q": "Solve: 6x - 11 = 25",
+  "options": ["4", "5", "6", "7"],
+  "answer": "6"
+},
+
+{
+  "q": "Find the diagonal of a square of side 5cm (√2 ≈ 1.4)",
+  "options": ["6cm", "7cm", "8cm", "9cm"],
+  "answer": "7cm"
+},
+
+{
+  "q": "Factorize: x² + 9x + 14",
+  "options": ["(x+7)(x+2)", "(x+1)(x+14)", "(x+4)(x+5)", "(x+3)(x+6)"],
+  "answer": "(x+7)(x+2)"
+},
+
+{
+  "q": "Find the value of 10² - 6²",
+  "options": ["54", "64", "74", "84"],
+  "answer": "64"
+},
+
+{
+  "q": "A ratio of boys to girls is 3:5. If there are 24 boys, how many girls are there?",
+  "options": ["30", "35", "40", "45"],
+  "answer": "40"
+},
+
+{
+  "q": "Solve: 3x² = 147",
+  "options": ["5", "6", "7", "8"],
+  "answer": "7"
+},
+
+{
+  "q": "Find the area of a trapezium with parallel sides 8cm and 14cm and height 5cm.",
+  "options": ["45cm²", "50cm²", "55cm²", "60cm²"],
+  "answer": "55cm²"
+}
+]
